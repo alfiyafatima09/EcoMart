@@ -22,7 +22,7 @@
 The sustainability score is calculated using weighted parameters that consider the environmental impact of each product. These parameters are:
 
 1. **Overall Sustainability Score**: Quick summary rating (0-100%) for decision-making.
-2. ** Carbon Footprint**: CO₂ emissions during production.
+2. **Carbon Footprint**: CO₂ emissions during production.
 3. **Water Usage**: Liters of water consumed for production.
 4. **Manufacturing Impact**: Pollution, deforestation, or waste generated.
 5. **Recyclability**: Percentage of product that can be recycled.
