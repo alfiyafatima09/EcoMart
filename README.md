@@ -11,10 +11,10 @@
 
 ## ✨ Key Features
 
-- 🔍 **Real-Time Analysis**: Instant sustainability insights while you shop
-- 🌱 **Eco Alternatives**: Curated suggestions from verified sustainable brands
-- 📊 **Sustainability Score**: Comprehensive rating based on multiple environmental factors
-- ♻️ **Impact Tracking**: Monitor your environmental impact over time
+-  **Real-Time Analysis**: Instant sustainability insights while you shop
+-  **Eco Alternatives**: Curated suggestions from verified sustainable brands
+-  **Sustainability Score**: Comprehensive rating based on multiple environmental factors
+-  **Impact Tracking**: Monitor your environmental impact over time
 
 ---
 
@@ -23,16 +23,16 @@
 
 The sustainability score is calculated using weighted parameters that consider the environmental impact of each product. These parameters are:
 
-1. **🌱 Overall Sustainability Score**: Quick summary rating (0-100%) for decision-making.
-2. **🌍 Carbon Footprint**: CO₂ emissions during production.
-3. **🚰 Water Usage**: Liters of water consumed for production.
-4. **🏭 Manufacturing Impact**: Pollution, deforestation, or waste generated.
-5. **🔄 Recyclability**: Percentage of product that can be recycled.
-6. **✅ Eco Certifications**: Fair Trade, FSC, Energy Star, etc.
-7. **🛢️ Harmful Chemicals Used**: Toxic materials like microplastics and heavy metals.
-8. **🌾 Material Composition**: Organic, recycled, synthetic materials used.
-9. **🔥 Biodegradability**: Time taken to decompose.
-10. **✈️ Shipping Impact**: Distance traveled & CO₂ emissions from transportation.
+1. ** Overall Sustainability Score**: Quick summary rating (0-100%) for decision-making.
+2. ** Carbon Footprint**: CO₂ emissions during production.
+3. ** Water Usage**: Liters of water consumed for production.
+4. ** Manufacturing Impact**: Pollution, deforestation, or waste generated.
+5. ** Recyclability**: Percentage of product that can be recycled.
+6. ** Eco Certifications**: Fair Trade, FSC, Energy Star, etc.
+7. ** Harmful Chemicals Used**: Toxic materials like microplastics and heavy metals.
+8. ** Material Composition**: Organic, recycled, synthetic materials used.
+9. ** Biodegradability**: Time taken to decompose.
+10. ** Shipping Impact**: Distance traveled & CO₂ emissions from transportation.
 
 ### Example Calculation for a Product
 
@@ -134,9 +134,9 @@ Join our platform to showcase your sustainable products:
 ## 📈 Impact Dashboard
 
 Track your sustainable shopping impact:
-- 🌱 Products switched to eco-friendly alternatives
-- 💧 Water saved through conscious choices
-- 🌡️ Carbon emissions reduced
+-  Products switched to eco-friendly alternatives
+-  Water saved through conscious choices
+-  Carbon emissions reduced
 
 ---
 
