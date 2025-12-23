@@ -2,8 +2,6 @@
 
 We appreciate your interest in contributing to Ecomart, a Chrome extension designed to promote sustainable shopping. This guide will help you understand how you can contribute, set up the development environment, and adhere to best practices.
 
----
-
 ## 🛠️ Development Setup
 
 ### 1. **Clone the Repository**
@@ -46,7 +44,6 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
 Visit any supported e-commerce platform, click the Ecomart extension icon, and verify that sustainability insights and eco-friendly alternatives are displayed.
 
----
 
 ## 🚀 How to Contribute
 
@@ -94,7 +91,6 @@ Follow these steps to contribute code:
 
    Go to the original repository and click **New Pull Request**. Ensure you provide a clear description of the changes.
 
----
 
 ## 🧑‍💻 Code Style Guidelines
 
@@ -103,15 +99,12 @@ Follow these steps to contribute code:
 - Ensure code is modular and well-commented.
 - Write clean and maintainable code.
 
----
-
 ## 📚 Best Practices
 
 - Write meaningful commit messages.
 - Ensure the codebase remains consistent with the existing architecture.
 - Avoid introducing unnecessary dependencies.
 
----
 
 ## 📸 Screenshots
 
@@ -121,5 +114,4 @@ Add relevant screenshots side by side using Markdown:
 |-------------|--------------|
 | [Original screenshot before change] | [Screenshot after changes made] |
 
----
 
