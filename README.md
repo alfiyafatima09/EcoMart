@@ -16,8 +16,6 @@
 -  **Sustainability Score**: Comprehensive rating based on multiple environmental factors
 -  **Impact Tracking**: Monitor your environmental impact over time
 
----
-
 
 ## 🌍 Key Parameters for Sustainability Score
 
@@ -63,8 +61,6 @@ We have conducted extensive research and developed a **comprehensive scoring sys
 | Working Conditions| Ethical treatment of workers          | 10%    |
 | VOC Emissions| Volatile organic compounds emissions  | 10%    |
 
----
-
 ## 🚀 Getting Started
 
 ### Installation
@@ -93,7 +89,6 @@ We have conducted extensive research and developed a **comprehensive scoring sys
 	  - Select the project's `out` directory
 	  - Try it out on E-commerce 
 
----
 
 ### Running the Website
 
@@ -109,7 +104,7 @@ Visit `http://localhost:3000`
 3. **Score Generation**: Creates a comprehensive eco-score
 4. **Alternative Suggestions**: Presents sustainable alternatives from verified brands
 
----
+
 
 ## 🤝 For Eco-Friendly Brands
 
@@ -122,14 +117,14 @@ Join our platform to showcase your sustainable products:
 
 [Apply to Register Your Brand →](https://ecomart-dusky.vercel.app)
 
----
+
 
 ## 🛠️ Technology Stack
 
 - **Frontend**: Chrome Extension (Next.js, JavaScript)
 - **Backend**: Firebase
 - **AI Integration**: Gemini API
----
+
 
 ## 📈 Impact Dashboard
 
@@ -138,7 +133,7 @@ Track your sustainable shopping impact:
 -  Water saved through conscious choices
 -  Carbon emissions reduced
 
----
+
 
 ## 🤝 Contributing
 
@@ -150,7 +145,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Push to the branch
 5. Create a Pull Request
 
----
+
 
 ## 📄 License
 
