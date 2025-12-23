@@ -7,7 +7,7 @@ We appreciate your interest in contributing to Ecomart, a Chrome extension desig
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/chetanr25/EcoMart.git
+git clone https://github.com/alfiyafatima09/EcoMart.git
 cd EcoMart
 ```
 
@@ -51,7 +51,7 @@ We welcome contributions from the community! Here's how you can get involved:
 
 ### **Reporting Issues**
 
-If you encounter bugs or have feature requests, please [open an issue](https://github.com/chetanr25/EcoMart/issues).
+If you encounter bugs or have feature requests, please [open an issue](https://github.com/alfiyafatima09/EcoMart/issues).
 
 ### **Feature Requests**
 
