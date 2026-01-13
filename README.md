@@ -9,6 +9,8 @@
 
 <br />
 
+[Try EcoMart on chromewebstore](https://chromewebstore.google.com/detail/eco-mart/kijechlgegflokojgobhlalgidgiojjl?authuser=0&hl=en)
+
 ## ✨ Key Features
 
 -  **Real-Time Analysis**: Instant sustainability insights while you shop
@@ -115,9 +117,7 @@ Join our platform to showcase your sustainable products:
 - Transparent supply chain documentation
 - Verified eco-friendly practices
 
-[Apply to Register Your Brand →](https://ecomart-dusky.vercel.app)
-
-
+---
 
 ## 🛠️ Technology Stack
 
